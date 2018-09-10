@@ -1,0 +1,12 @@
+com\br\twitter\model\TwitterEntity.class
+com\br\twitter\service\TwitterSaveService.class
+com\br\twitter\config\Twitter4jAutoConfiguration.class
+com\br\twitter\service\TwitterRetrieveService.class
+com\br\twitter\config\Twitter4jProperties$OAuth.class
+com\br\twitter\controller\TwitterServiceController.class
+com\br\twitter\repository\TwitterRepository.class
+com\br\twitter\application\Application.class
+com\br\twitter\service\consume\TwitterLegacyService.class
+com\br\twitter\config\Twitter4jProperties.class
+com\br\twitter\utils\TwitterRersourceValidate.class
+com\br\twitter\enums\TwitterMessage.class

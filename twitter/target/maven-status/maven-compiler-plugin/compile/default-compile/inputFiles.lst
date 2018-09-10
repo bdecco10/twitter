@@ -1,0 +1,11 @@
+D:\Workspace\Workspace_ElasticSearch\workspace\twitter\src\main\java\com\br\twitter\service\consume\TwitterLegacyService.java
+D:\Workspace\Workspace_ElasticSearch\workspace\twitter\src\main\java\com\br\twitter\service\TwitterRetrieveService.java
+D:\Workspace\Workspace_ElasticSearch\workspace\twitter\src\main\java\com\br\twitter\model\TwitterEntity.java
+D:\Workspace\Workspace_ElasticSearch\workspace\twitter\src\main\java\com\br\twitter\enums\TwitterMessage.java
+D:\Workspace\Workspace_ElasticSearch\workspace\twitter\src\main\java\com\br\twitter\service\TwitterSaveService.java
+D:\Workspace\Workspace_ElasticSearch\workspace\twitter\src\main\java\com\br\twitter\controller\TwitterServiceController.java
+D:\Workspace\Workspace_ElasticSearch\workspace\twitter\src\main\java\com\br\twitter\config\Twitter4jAutoConfiguration.java
+D:\Workspace\Workspace_ElasticSearch\workspace\twitter\src\main\java\com\br\twitter\repository\TwitterRepository.java
+D:\Workspace\Workspace_ElasticSearch\workspace\twitter\src\main\java\com\br\twitter\application\Application.java
+D:\Workspace\Workspace_ElasticSearch\workspace\twitter\src\main\java\com\br\twitter\utils\TwitterRersourceValidate.java
+D:\Workspace\Workspace_ElasticSearch\workspace\twitter\src\main\java\com\br\twitter\config\Twitter4jProperties.java
